@@ -6,7 +6,7 @@ function saludar(String) {
     var hora = hoy.getHours();
 
     // Nombre
-    var nombre = String;
+    var nombre = Anneliesse;
 
     // Dialogos
     var dialogo1 = 'Vete a dormir! ';
